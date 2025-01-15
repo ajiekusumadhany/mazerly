@@ -821,11 +821,7 @@
 }
 /* Untuk tablet*/
 @media (max-width: 810px) {
-header{
-    margin-top: -50px;
-}
 
-  
     nav.main-navigation {
       display: none;
     }
